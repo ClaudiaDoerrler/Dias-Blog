@@ -28,7 +28,7 @@ Your partner has a life, too. They bring their own wounds, insecurities, experie
 So suddenly, it is not only about finding your own balance and taking care of yourself. You also have a relationship to take care of. Sometimes, being in a relationship does not make life simpler. It simply means that you are no longer carrying only your own life.
 
 ::: {.text-center}
-![it is your life](surfer.jpg)
+![it is your life](surfer.jpg){fig-align="center" width="50%"}
 :::
 
 ## An Example of a Client 
@@ -97,3 +97,5 @@ There will not be a person who suddenly transforms your life and saves you from 
 - What would you free yourself from if you stopped waiting for someone to "rescue" you?
 - What gives your life meaning, independent of being in a romantic relationship?**
 :::
+
+![what gives your life meaning](sunset friends.jpg){fig-align="center" width="50%"}
