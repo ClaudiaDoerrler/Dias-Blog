@@ -8,7 +8,6 @@ image: "image.jpg"
 
 ---
 
-This article is for everyone craving a romantic relationship and being sad about not finding it at the moment.
 
 Could it be that part of your desire to finally be in a romantic relationship comes from the hope of being rescued from your own life?
 
@@ -28,7 +27,7 @@ Your partner has a life, too. They bring their own wounds, insecurities, experie
 
 So suddenly, it is not only about finding your own balance and taking care of yourself. You also have a relationship to take care of. Sometimes, being in a relationship does not make life simpler. It simply means that you are no longer carrying only your own life.
 
-## An Example of a Client – That Is Life, Too
+## An Example of a Client 
 
 The rescuer does not come. Not even the happy ending.
 
@@ -89,8 +88,8 @@ There will not be a person who suddenly transforms your life and saves you from 
 ---
 
 ::: {.text-center}
-A few questions to leave you with:
+##A few questions to leave you with:
 
-- What would you free yourself from if you stopped waiting for someone to "rescue" you?
-- What gives your life meaning, independent of being in a romantic relationship?
+**- What would you free yourself from if you stopped waiting for someone to "rescue" you?
+- What gives your life meaning, independent of being in a romantic relationship?**
 :::
