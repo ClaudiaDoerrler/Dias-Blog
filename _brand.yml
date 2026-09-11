@@ -15,7 +15,7 @@ typography:
     - family: Quicksand
       source: google
   base: Nunito
-  headings: Caveat
+  headings: Dancing Script
 
 defaults:
   bootstrap:
