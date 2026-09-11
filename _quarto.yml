@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  description: "a blog about psychology and how our emotions move us."
+  site-url: https://your-website-url.example.com # you must change this appropriately for RSS feeds to work properly
+  title: "myblog: e-motions"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: bluesky
+        href: https://bsky.app/
+format:
+  html:
+    theme:
+      - minty
+      - brand
+    css: styles.css
+
+
+

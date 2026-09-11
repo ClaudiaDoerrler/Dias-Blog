@@ -1,0 +1,23 @@
+color:
+  palette:
+    ocean-blue: "#7fb0c2"
+    sand: "#f2e8d5"
+    warm-white: "#fdfaf5"
+    charcoal: "#4a4a4a"
+  foreground: charcoal
+  background: sand
+  primary: ocean-blue
+
+typography:
+  fonts:
+    - family: Nunito
+      source: google
+    - family: Quicksand
+      source: google
+  base: Nunito
+  headings: Quicksand
+
+defaults:
+  bootstrap:
+    navbar-bg: ocean-blue
+    navbar-fg: warm-white
