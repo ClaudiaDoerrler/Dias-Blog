@@ -15,7 +15,7 @@ typography:
     - family: Quicksand
       source: google
   base: Nunito
-  headings: Quicksand
+  headings: Cormorant Garamond
 
 defaults:
   bootstrap:
