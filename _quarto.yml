@@ -5,7 +5,7 @@ project:
 website:
   description: "a blog about psychology and how our emotions move us."
   site-url: https://claudiadoerrler.github.io/Dias-Blog/
-  title: "LaDiaLuz"
+  title: "Dia´s blog"
   navbar:
     right:
       - about.qmd
