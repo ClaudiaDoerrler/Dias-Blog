@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   description: "a blog about psychology and how our emotions move us."
