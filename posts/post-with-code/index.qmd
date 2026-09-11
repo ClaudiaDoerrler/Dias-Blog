@@ -7,7 +7,9 @@ description: "This article is for everyone craving a romantic relationship and b
 image: "whywecraveforlove.jpg"
 
 ---
-
+::: {.text-center}
+![for everyone craving love](whywecraveforlove.jpg){fig-align="center" width="50%"}
+:::
 
 Could it be that part of your desire to finally be in a romantic relationship comes from the hope of being rescued from your own life?
 
