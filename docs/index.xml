@@ -8,7 +8,7 @@
 <title>Dia´s blog</title>
 <link>https://claudiadoerrler.github.io/Dias-Blog/</link>
 <atom:link href="https://claudiadoerrler.github.io/Dias-Blog/index.xml" rel="self" type="application/rss+xml"/>
-<description>a blog about psychology and how our emotions move us.</description>
+<description>a space for thoughts on psychology, love, relationships, and life.</description>
 <generator>quarto-1.9.38</generator>
 <lastBuildDate>Wed, 09 Sep 2026 22:00:00 GMT</lastBuildDate>
 <item>
@@ -96,7 +96,7 @@
   <category>Reflection</category>
   <guid>https://claudiadoerrler.github.io/Dias-Blog/posts/post-with-code/</guid>
   <pubDate>Wed, 09 Sep 2026 22:00:00 GMT</pubDate>
-  <media:content url="https://claudiadoerrler.github.io/Dias-Blog/posts/post-with-code/sunset.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://claudiadoerrler.github.io/Dias-Blog/posts/post-with-code/whywecraveforlove.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Welcome To My Blog</title>

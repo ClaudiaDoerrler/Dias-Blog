@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  description: "a blog about psychology and how our emotions move us."
+  description: "a space for thoughts on psychology, love, relationships, and life."
   site-url: https://claudiadoerrler.github.io/Dias-Blog/
   title: "Dia´s blog"
   navbar:

@@ -4,7 +4,7 @@ author: "Dia"
 date: "2026-09-10"
 categories: [Love, Relationships, Reflection]
 description: "This article is for everyone craving a romantic relationship and being sad about not finding it at the moment."
-image: "sunset.jpg"
+image: "whywecraveforlove.jpg"
 
 ---
 
