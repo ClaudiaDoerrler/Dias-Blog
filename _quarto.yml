@@ -13,6 +13,11 @@ website:
         href: https://github.com/
       - icon: bluesky
         href: https://bsky.app/
+  page-footer:
+    center: |
+      © 2026 Dia. This work is licensed under 
+      [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+      
 format:
   html:
     theme:
@@ -20,5 +25,6 @@ format:
       - brand
     css: styles.css
 
+  
 
 
